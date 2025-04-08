@@ -1,0 +1,2 @@
+# jungle-shootout
+hunt_scout_ambush_attack_strike_wildlife
